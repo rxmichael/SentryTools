@@ -64,7 +64,3 @@ let monitor = ThreadMonitor(
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-- Open an issue on GitHub
-- Review the debug logs for troubleshooting
-- Check the testing interface for verification steps
